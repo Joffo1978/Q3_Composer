@@ -1,0 +1,17 @@
+{
+    "name": "joffo/compo_3",
+    "autoload": {
+        "psr-4": {
+            "Joffo\\Compo3\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "BONZOM Julien",
+            "email": "bonzomj@gmail.com"
+        }
+    ],
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
